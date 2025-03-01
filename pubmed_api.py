@@ -34,26 +34,55 @@ class PubMedClient:
             for article in root.findall(".//PubmedArticle"):
                 title = article.find(".//ArticleTitle").text if article.find(".//ArticleTitle") is not None else "No Title"
                 abstract_text = " ".join([ab.text for ab in article.findall(".//AbstractText") if ab.text]) or "No Abstract"
-                full_text_link = self._get_doi(article)
 
                 articles.append({
                     "title": title,
-                    "abstract": abstract_text.strip(),
-                    "full_text_link": full_text_link
+                    "abstract": abstract_text.strip()
                 })
             self.logger.info("Article fetch completed")
         except Exception as e:
             self.logger.error(f"Fetch failed: {e}")
         return articles
 
-    def _get_doi(self, article):
-        """Extract DOI link if available"""
-        for article_id in article.findall(".//ArticleId"):
-            if article_id.attrib.get("IdType") == "doi":
-                return f"https://doi.org/{article_id.text}"
-        return "Not Available"
+    def fetch_and_save_multiple_queries(self, queries, filename, retmax=10):
+        """Fetch articles for multiple queries and save results to a text file"""
+        try:
+            with open(filename, 'w', encoding='utf-8') as file:
+                for query in queries:
+                    self.logger.info(f"Processing query: {query}")
+                    pmid_list = self.search(query, retmax=retmax)
+                    articles = self.fetch_articles(pmid_list)
+                    
+                    file.write(f"Query: {query}\n")
+                    for article in articles:
+                        file.write(f"Title: {article['title']}\n")
+                        file.write(f"Abstract: {article['abstract']}\n")
+                        file.write("\n")
+                    file.write("="*50 + "\n")
+            self.logger.info(f"Results saved to {filename}")
+        except Exception as e:
+            self.logger.error(f"Failed to save articles: {e}")
 
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
 
+if __name__ == "__main__":
+    # Initialize the PubMedClient
+    client = PubMedClient(email="your_email@example.com")
+
+    # List of queries
+    queries = [
+        "hypertension",
+        "regular medication for diabetes",
+        "allergy to penicillin",
+        "chest pain"
+    ]
+
+    # Output filename
+    filename = "abstract.txt"
+
+    # Fetch and Save Articles
+    client.fetch_and_save_multiple_queries(queries, filename, retmax=5)
+
+    print(f"Articles saved to {filename}")

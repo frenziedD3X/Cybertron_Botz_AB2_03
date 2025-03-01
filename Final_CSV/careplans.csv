@@ -1,0 +1,529 @@
+START,STOP,Id,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+23-01-2010,23-01-2012,034e9e3b-2def-4559-bb2a-7850888ae060,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+13-05-2011,02-08-2011,10339b10-3cd1-4ac3-ac13-ec26728cb592,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+31-12-2011,30-11-2012,f5dcd418-09fe-4a2f-baa0-3da800bd8c3a,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+29-12-2016,05-01-2017,034e9e3b-2def-4559-bb2a-7850888ae060,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+22-01-2017,12-02-2017,10339b10-3cd1-4ac3-ac13-ec26728cb592,225358003,Wound care,284551006,Laceration of foot
+23-04-2019,07-05-2019,10339b10-3cd1-4ac3-ac13-ec26728cb592,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+23-05-2018,20-06-2018,72c0b9ce-7aa4-430b-aaff-bd0ce7846e55,91251008,Physical therapy procedure,70704007,Sprain of wrist
+31-10-2017,14-11-2017,b1e9b0b9-da6e-4f68-b603-bd896a50ca86,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+05-12-2019,12-12-2019,b1e9b0b9-da6e-4f68-b603-bd896a50ca86,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+17-06-2014,24-06-2014,b58731cc-2d8b-4c2d-b327-4cab771af3ef,8.69761E+14,Urinary tract infection care,38822007,Cystitis
+08-07-2014,06-09-2014,b58731cc-2d8b-4c2d-b327-4cab771af3ef,385691007,Fracture care,65966004,Fracture of forearm
+26-05-2018,05-01-2019,b58731cc-2d8b-4c2d-b327-4cab771af3ef,134435003,Routine antenatal care,72892002,Normal pregnancy
+28-01-2012,16-12-2012,ad2e9916-4979-40fc-a8c0-68651a0cb5a6,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+01-09-2010,30-03-2011,bfb6537b-535a-4f31-9a56-073220f96a17,134435003,Routine antenatal care,72892002,Normal pregnancy
+13-09-2017,18-04-2018,bfb6537b-535a-4f31-9a56-073220f96a17,134435003,Routine antenatal care,72892002,Normal pregnancy
+11-09-2019,,bfb6537b-535a-4f31-9a56-073220f96a17,698360004,Diabetes self management plan,15777000,Prediabetes
+01-08-2007,,83719bd7-7a41-4c87-93f9-c5de4db6a14a,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+26-02-2014,01-10-2014,83719bd7-7a41-4c87-93f9-c5de4db6a14a,134435003,Routine antenatal care,72892002,Normal pregnancy
+27-05-2015,06-01-2016,83719bd7-7a41-4c87-93f9-c5de4db6a14a,134435003,Routine antenatal care,72892002,Normal pregnancy
+25-10-1982,,76982e06-f8b8-4509-9ca3-65a99c8650fe,384758001,Self-care interventions (procedure),,
+03-08-2011,29-02-2012,76982e06-f8b8-4509-9ca3-65a99c8650fe,134435003,Routine antenatal care,72892002,Normal pregnancy
+25-10-2012,01-11-2012,76982e06-f8b8-4509-9ca3-65a99c8650fe,8.69761E+14,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+09-01-2013,14-08-2013,76982e06-f8b8-4509-9ca3-65a99c8650fe,134435003,Routine antenatal care,72892002,Normal pregnancy
+28-11-2015,02-01-2016,76982e06-f8b8-4509-9ca3-65a99c8650fe,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+03-11-2016,20-11-2019,76982e06-f8b8-4509-9ca3-65a99c8650fe,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+11-09-2017,25-09-2017,76982e06-f8b8-4509-9ca3-65a99c8650fe,737471002,Minor surgery care management (procedure),,
+24-08-1976,,2ffe9369-24e4-414b-8973-258fad09313a,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+04-12-1979,15-07-1980,2ffe9369-24e4-414b-8973-258fad09313a,134435003,Routine antenatal care,72892002,Normal pregnancy
+22-09-1981,,2ffe9369-24e4-414b-8973-258fad09313a,698360004,Diabetes self management plan,15777000,Prediabetes
+01-11-1983,05-06-1984,2ffe9369-24e4-414b-8973-258fad09313a,134435003,Routine antenatal care,72892002,Normal pregnancy
+04-08-1992,09-03-1993,2ffe9369-24e4-414b-8973-258fad09313a,134435003,Routine antenatal care,72892002,Normal pregnancy
+19-10-1993,07-06-1994,2ffe9369-24e4-414b-8973-258fad09313a,134435003,Routine antenatal care,72892002,Normal pregnancy
+21-08-2001,,2ffe9369-24e4-414b-8973-258fad09313a,134435003,Routine antenatal care,72892002,Normal pregnancy
+22-01-2014,21-02-2014,2ffe9369-24e4-414b-8973-258fad09313a,385691007,Fracture care,65966004,Fracture of forearm
+21-04-1975,,e4f1bd35-93ae-418b-b8cf-d39c3fbb069c,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+10-10-2005,,e4f1bd35-93ae-418b-b8cf-d39c3fbb069c,698360004,Diabetes self management plan,15777000,Prediabetes
+27-06-2010,18-07-2010,e4f1bd35-93ae-418b-b8cf-d39c3fbb069c,91251008,Physical therapy procedure,44465007,Sprain of ankle
+06-08-2012,27-08-2012,e4f1bd35-93ae-418b-b8cf-d39c3fbb069c,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+13-07-2015,03-08-2015,e4f1bd35-93ae-418b-b8cf-d39c3fbb069c,225358003,Wound care,283371005,Laceration of forearm
+19-07-1977,,86b97fc7-ae8f-4e0d-8e66-db68f36e7a76,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+02-12-2012,16-12-2012,86b97fc7-ae8f-4e0d-8e66-db68f36e7a76,225358003,Wound care,283385000,Laceration of thigh
+21-03-2019,17-03-2020,86b97fc7-ae8f-4e0d-8e66-db68f36e7a76,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+09-10-1983,06-11-1983,1c591f0d-95b1-4289-94a9-9713ab3834e7,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+26-03-1989,,1c591f0d-95b1-4289-94a9-9713ab3834e7,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+04-06-1976,,f1678bde-4814-4d71-bca9-18fdf5282232,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+26-10-2001,,aac107d8-5187-420f-a90c-448ad49dee41,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+17-12-2010,15-07-2011,aac107d8-5187-420f-a90c-448ad49dee41,134435003,Routine antenatal care,72892002,Normal pregnancy
+08-11-2012,15-11-2012,aac107d8-5187-420f-a90c-448ad49dee41,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+24-10-2013,14-11-2013,aac107d8-5187-420f-a90c-448ad49dee41,91251008,Physical therapy procedure,44465007,Sprain of ankle
+07-03-2014,17-10-2014,aac107d8-5187-420f-a90c-448ad49dee41,134435003,Routine antenatal care,72892002,Normal pregnancy
+11-11-2016,16-06-2017,aac107d8-5187-420f-a90c-448ad49dee41,134435003,Routine antenatal care,72892002,Normal pregnancy
+15-01-2002,,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,384758001,Self-care interventions (procedure),,
+03-07-2004,02-08-2004,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,385691007,Fracture care,58150001,Fracture of clavicle
+27-11-2004,,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,699728000,Asthma self management,233678006,Childhood asthma
+13-05-2008,27-05-2008,71ba0469-f0cc-4177-ac70-ea07cb01c8b8,225358003,Wound care,370247008,Facial laceration
+27-07-2014,03-08-2014,518f83f3-a717-4705-a181-06e205df480b,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+18-07-2018,,2f43a131-a43a-4c8c-a723-cc261adb9cc6,384758001,Self-care interventions (procedure),,
+01-03-2020,,2f43a131-a43a-4c8c-a723-cc261adb9cc6,699728000,Asthma self management,233678006,Childhood asthma
+28-12-1974,,2c634692-05d8-4122-9f46-dd9402e2cfc6,699728000,Asthma self management,233678006,Childhood asthma
+14-02-1989,,2c634692-05d8-4122-9f46-dd9402e2cfc6,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+21-03-1995,,2c634692-05d8-4122-9f46-dd9402e2cfc6,698360004,Diabetes self management plan,15777000,Prediabetes
+29-12-2016,05-01-2017,2c634692-05d8-4122-9f46-dd9402e2cfc6,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+24-06-2003,27-01-2004,860aff27-7431-47ee-968e-554470683160,134435003,Routine antenatal care,72892002,Normal pregnancy
+23-03-2004,,860aff27-7431-47ee-968e-554470683160,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+03-08-2004,08-03-2005,860aff27-7431-47ee-968e-554470683160,134435003,Routine antenatal care,72892002,Normal pregnancy
+10-06-2008,13-01-2009,860aff27-7431-47ee-968e-554470683160,134435003,Routine antenatal care,72892002,Normal pregnancy
+05-01-2015,26-05-2015,860aff27-7431-47ee-968e-554470683160,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+01-09-2015,05-04-2016,860aff27-7431-47ee-968e-554470683160,134435003,Routine antenatal care,72892002,Normal pregnancy
+12-11-2019,,860aff27-7431-47ee-968e-554470683160,134435003,Routine antenatal care,72892002,Normal pregnancy
+18-04-2016,28-11-2016,acb4817f-0ece-41d8-b179-82397a95a44a,134435003,Routine antenatal care,72892002,Normal pregnancy
+05-07-2017,12-07-2017,acb4817f-0ece-41d8-b179-82397a95a44a,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+17-07-2017,,acb4817f-0ece-41d8-b179-82397a95a44a,698360004,Diabetes self management plan,15777000,Prediabetes
+15-01-2002,,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,384758001,Self-care interventions (procedure),,
+02-08-2010,16-08-2010,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+26-11-2013,30-05-2017,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,170836005,Allergic disorder monitoring,,
+24-08-2014,23-09-2014,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+12-09-2016,03-10-2016,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,91251008,Physical therapy procedure,44465007,Sprain of ankle
+28-05-1989,,c8403116-d069-4130-aa02-39954fc971b5,698360004,Diabetes self management plan,15777000,Prediabetes
+26-04-2009,,c8403116-d069-4130-aa02-39954fc971b5,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+28-08-1991,,b1bc3c89-4e7b-41fd-a58b-9bf4ce2b40a9,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+05-02-1994,12-03-1994,50e7ede4-7ca1-4b2c-ae64-6b88b58eeaac,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+06-10-2003,,50e7ede4-7ca1-4b2c-ae64-6b88b58eeaac,408869004,Musculoskeletal care,239872002,Osteoarthritis of hip
+24-05-2011,10-11-2011,50e7ede4-7ca1-4b2c-ae64-6b88b58eeaac,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+27-10-2014,27-11-2014,50e7ede4-7ca1-4b2c-ae64-6b88b58eeaac,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+09-07-2013,11-02-2014,5a8c7f6d-b15c-4c55-b299-5bf8c2b35ad4,134435003,Routine antenatal care,72892002,Normal pregnancy
+07-08-1985,,73f124a4-e69e-4b8c-a447-e72d23dc54be,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+13-11-2002,,73f124a4-e69e-4b8c-a447-e72d23dc54be,698360004,Diabetes self management plan,15777000,Prediabetes
+30-01-2013,,73f124a4-e69e-4b8c-a447-e72d23dc54be,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+03-10-1988,,ad7c452d-c8e9-40ae-a5ed-90b7bd93d2ac,384758001,Self-care interventions (procedure),,
+26-09-2005,,ad7c452d-c8e9-40ae-a5ed-90b7bd93d2ac,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+01-03-2011,15-03-2011,ad7c452d-c8e9-40ae-a5ed-90b7bd93d2ac,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+06-05-2006,,e20fb002-6dc6-4cea-ba4b-7f528ccf6572,711282006,Skin condition care,24079001,Atopic dermatitis
+22-05-2006,,e20fb002-6dc6-4cea-ba4b-7f528ccf6572,384758001,Self-care interventions (procedure),,
+05-12-2018,,e20fb002-6dc6-4cea-ba4b-7f528ccf6572,170836005,Allergic disorder monitoring,,
+07-08-1985,,d49f748f-928d-40e8-92c8-73e4c5679711,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+09-08-2010,23-08-2010,d49f748f-928d-40e8-92c8-73e4c5679711,225358003,Wound care,370247008,Facial laceration
+13-07-2012,03-08-2012,d49f748f-928d-40e8-92c8-73e4c5679711,225358003,Wound care,370247008,Facial laceration
+08-02-2017,09-05-2017,d49f748f-928d-40e8-92c8-73e4c5679711,385691007,Fracture care,16114001,Fracture of ankle
+06-08-2013,18-03-2014,7723d469-7227-4b58-8f3e-b441197f4134,134435003,Routine antenatal care,72892002,Normal pregnancy
+05-08-2014,10-03-2015,7723d469-7227-4b58-8f3e-b441197f4134,134435003,Routine antenatal care,72892002,Normal pregnancy
+27-10-2018,17-11-2018,7723d469-7227-4b58-8f3e-b441197f4134,133901003,Burn care,403191005,Second degree burn
+04-12-2018,02-07-2019,7723d469-7227-4b58-8f3e-b441197f4134,134435003,Routine antenatal care,72892002,Normal pregnancy
+07-10-2013,,e3af2463-f4c9-4dbb-a8d2-d6a08c5b1460,711282006,Skin condition care,24079001,Atopic dermatitis
+24-11-2014,,e3af2463-f4c9-4dbb-a8d2-d6a08c5b1460,384758001,Self-care interventions (procedure),,
+08-12-2017,29-12-2017,e3af2463-f4c9-4dbb-a8d2-d6a08c5b1460,225358003,Wound care,283371005,Laceration of forearm
+20-10-2019,18-01-2020,e3af2463-f4c9-4dbb-a8d2-d6a08c5b1460,385691007,Fracture care,263102004,Fracture subluxation of wrist
+06-09-2018,,31459cc4-45ed-4dee-b160-9f1a148a7724,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+13-01-2020,20-01-2020,31459cc4-45ed-4dee-b160-9f1a148a7724,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+18-07-2001,,8908602e-5f0c-4f1e-847f-75a0043eeba7,698360004,Diabetes self management plan,44054006,Diabetes
+08-08-2009,28-07-2010,8908602e-5f0c-4f1e-847f-75a0043eeba7,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+16-02-2017,16-03-2017,8908602e-5f0c-4f1e-847f-75a0043eeba7,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+05-01-2019,26-01-2019,8908602e-5f0c-4f1e-847f-75a0043eeba7,225358003,Wound care,370247008,Facial laceration
+13-01-2019,22-05-2019,8908602e-5f0c-4f1e-847f-75a0043eeba7,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+19-10-1990,,5be97219-ef35-4c5a-88ab-5f9a2187b7d6,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+05-11-1993,,5be97219-ef35-4c5a-88ab-5f9a2187b7d6,698360004,Diabetes self management plan,15777000,Prediabetes
+25-11-2011,24-01-2012,5be97219-ef35-4c5a-88ab-5f9a2187b7d6,385691007,Fracture care,33737001,Fracture of rib
+15-09-2013,06-10-2013,5be97219-ef35-4c5a-88ab-5f9a2187b7d6,225358003,Wound care,370247008,Facial laceration
+21-12-2015,11-03-2016,5be97219-ef35-4c5a-88ab-5f9a2187b7d6,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+28-08-2017,04-09-2017,5be97219-ef35-4c5a-88ab-5f9a2187b7d6,737471002,Minor surgery care management (procedure),,
+17-10-2004,,e05dd037-e45f-434a-946d-5c9076a2f596,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+20-01-2008,10-08-2008,e05dd037-e45f-434a-946d-5c9076a2f596,134435003,Routine antenatal care,72892002,Normal pregnancy
+21-12-2008,26-07-2009,e05dd037-e45f-434a-946d-5c9076a2f596,134435003,Routine antenatal care,72892002,Normal pregnancy
+22-01-2010,21-11-2010,e05dd037-e45f-434a-946d-5c9076a2f596,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+13-06-2010,09-01-2011,e05dd037-e45f-434a-946d-5c9076a2f596,134435003,Routine antenatal care,72892002,Normal pregnancy
+16-09-2012,21-04-2013,e05dd037-e45f-434a-946d-5c9076a2f596,134435003,Routine antenatal care,72892002,Normal pregnancy
+24-11-2019,,e05dd037-e45f-434a-946d-5c9076a2f596,134435003,Routine antenatal care,72892002,Normal pregnancy
+25-07-2002,,ddfa05a6-b8a6-4208-b609-28f9a6a8d79e,384758001,Self-care interventions (procedure),,
+28-06-2013,16-01-2014,ddfa05a6-b8a6-4208-b609-28f9a6a8d79e,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+02-09-2017,07-10-2017,ddfa05a6-b8a6-4208-b609-28f9a6a8d79e,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+30-05-2019,20-06-2019,ddfa05a6-b8a6-4208-b609-28f9a6a8d79e,133901003,Burn care,403191005,Second degree burn
+13-02-2016,06-08-2016,0983e422-3b48-4f1a-936b-bee5f0eb4695,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+21-11-2019,26-04-2020,301ebb70-0078-4989-b5dd-d751f56c404d,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+25-10-2013,22-11-2013,8abe8efb-d431-4465-ad3b-7b3f301b845f,91251008,Physical therapy procedure,70704007,Sprain of wrist
+27-08-2012,25-03-2013,32885ae1-d031-4f52-8f91-0e5196f5462a,134435003,Routine antenatal care,72892002,Normal pregnancy
+05-05-2014,17-11-2014,32885ae1-d031-4f52-8f91-0e5196f5462a,134435003,Routine antenatal care,72892002,Normal pregnancy
+23-02-2013,16-03-2013,c563f50c-54a9-4b37-9028-bff3db7e3e27,225358003,Wound care,283385000,Laceration of thigh
+16-04-1994,,7a8e4ef0-adf4-4e6d-8d28-5d36886547f4,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+22-04-1995,,7a8e4ef0-adf4-4e6d-8d28-5d36886547f4,698360004,Diabetes self management plan,15777000,Prediabetes
+16-10-2010,20-11-2010,7a8e4ef0-adf4-4e6d-8d28-5d36886547f4,91251008,Physical therapy procedure,44465007,Sprain of ankle
+11-02-2013,,7a8e4ef0-adf4-4e6d-8d28-5d36886547f4,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+05-09-2013,05-10-2013,7a8e4ef0-adf4-4e6d-8d28-5d36886547f4,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+29-07-2009,25-05-2010,c1b80a65-61e0-4f1b-9e1f-122c6d326034,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+15-04-2012,29-04-2012,c1b80a65-61e0-4f1b-9e1f-122c6d326034,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+19-07-2014,23-06-2015,c1b80a65-61e0-4f1b-9e1f-122c6d326034,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+07-05-2016,04-06-2016,c1b80a65-61e0-4f1b-9e1f-122c6d326034,91251008,Physical therapy procedure,44465007,Sprain of ankle
+05-07-2002,,1d7fe784-8667-47e8-b733-8e6ec0fbb5f9,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+02-10-1999,,bfd66698-4139-4e5e-9982-efa459aa9dca,384758001,Self-care interventions (procedure),,
+07-05-2017,06-06-2017,bfd66698-4139-4e5e-9982-efa459aa9dca,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+16-02-2013,11-04-2013,e175908a-09db-4730-a311-4e57ba73438b,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+05-06-2015,05-07-2015,e175908a-09db-4730-a311-4e57ba73438b,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+25-01-2012,24-02-2012,937d794b-6e68-4b17-b162-0a41b68f8085,385691007,Fracture care,263102004,Fracture subluxation of wrist
+09-05-2015,07-08-2015,937d794b-6e68-4b17-b162-0a41b68f8085,385691007,Fracture care,263102004,Fracture subluxation of wrist
+23-05-1986,,14289f20-085c-4fc8-bdd8-e2074166d91f,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+12-06-1992,,14289f20-085c-4fc8-bdd8-e2074166d91f,698360004,Diabetes self management plan,15777000,Prediabetes
+18-03-2012,,14289f20-085c-4fc8-bdd8-e2074166d91f,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+30-12-2016,06-01-2017,14289f20-085c-4fc8-bdd8-e2074166d91f,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+17-01-2020,31-01-2020,14289f20-085c-4fc8-bdd8-e2074166d91f,225358003,Wound care,283385000,Laceration of thigh
+30-03-1963,,47a91815-0dca-49df-b1dc-8bb88d8c1b38,384758001,Self-care interventions (procedure),,
+27-04-1977,,47a91815-0dca-49df-b1dc-8bb88d8c1b38,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+29-08-2013,20-11-2013,47a91815-0dca-49df-b1dc-8bb88d8c1b38,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+06-11-2011,06-12-2011,0f5646bc-a156-4ec0-9252-5b592e3d3184,385691007,Fracture care,263102004,Fracture subluxation of wrist
+21-07-2013,28-07-2013,0f5646bc-a156-4ec0-9252-5b592e3d3184,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+24-08-2014,01-02-2015,0f5646bc-a156-4ec0-9252-5b592e3d3184,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+16-09-2015,14-10-2015,0f5646bc-a156-4ec0-9252-5b592e3d3184,91251008,Physical therapy procedure,44465007,Sprain of ankle
+07-02-2016,,0f5646bc-a156-4ec0-9252-5b592e3d3184,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+06-05-2019,,0f5646bc-a156-4ec0-9252-5b592e3d3184,734163000,Care plan (record artifact),55680006,Drug overdose
+06-04-2012,23-11-2012,66b46e68-f643-4ebd-8ad1-14ebf58e356c,134435003,Routine antenatal care,72892002,Normal pregnancy
+17-06-2012,25-07-2014,66b46e68-f643-4ebd-8ad1-14ebf58e356c,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+11-07-2012,01-08-2012,66b46e68-f643-4ebd-8ad1-14ebf58e356c,225358003,Wound care,283385000,Laceration of thigh
+29-04-2016,09-12-2016,66b46e68-f643-4ebd-8ad1-14ebf58e356c,134435003,Routine antenatal care,72892002,Normal pregnancy
+06-10-2017,04-05-2018,66b46e68-f643-4ebd-8ad1-14ebf58e356c,134435003,Routine antenatal care,72892002,Normal pregnancy
+05-10-2018,10-05-2019,66b46e68-f643-4ebd-8ad1-14ebf58e356c,134435003,Routine antenatal care,72892002,Normal pregnancy
+21-08-2003,,bb9d00fe-b16e-4832-8aec-b1e9d480d48d,698360004,Diabetes self management plan,15777000,Prediabetes
+10-03-2015,27-05-2015,3800b2a6-2360-40dc-b709-394b4794cc0d,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+16-03-1977,21-11-1980,44c8b4c8-4457-4ba0-94b6-285ef327a249,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+09-07-1994,,e75ed3bb-d04c-46cc-897e-1938329673ec,384758001,Self-care interventions (procedure),,
+10-02-2012,28-09-2012,e75ed3bb-d04c-46cc-897e-1938329673ec,134435003,Routine antenatal care,72892002,Normal pregnancy
+28-05-2013,21-08-2015,e75ed3bb-d04c-46cc-897e-1938329673ec,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+21-03-2014,24-10-2014,e75ed3bb-d04c-46cc-897e-1938329673ec,134435003,Routine antenatal care,72892002,Normal pregnancy
+03-12-2018,17-12-2018,b844f920-ed79-4624-a4da-fe5a201b9baf,225358003,Wound care,283371005,Laceration of forearm
+04-03-2019,16-04-2019,b844f920-ed79-4624-a4da-fe5a201b9baf,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+30-05-1958,,cdef53d5-0537-4073-8874-79fa5e0346e6,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+21-07-1967,,cdef53d5-0537-4073-8874-79fa5e0346e6,698360004,Diabetes self management plan,44054006,Diabetes
+29-04-1977,02-12-1977,cdef53d5-0537-4073-8874-79fa5e0346e6,134435003,Routine antenatal care,72892002,Normal pregnancy
+25-03-1987,,cdef53d5-0537-4073-8874-79fa5e0346e6,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+04-02-1958,,799d0738-d5cd-4161-bdb8-e3c49e21ec66,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+24-07-1984,,799d0738-d5cd-4161-bdb8-e3c49e21ec66,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+18-11-2008,,799d0738-d5cd-4161-bdb8-e3c49e21ec66,736252007,Cancer care plan,126906006,Neoplasm of prostate
+25-12-2014,08-01-2015,799d0738-d5cd-4161-bdb8-e3c49e21ec66,91251008,Physical therapy procedure,44465007,Sprain of ankle
+04-11-2015,04-12-2015,799d0738-d5cd-4161-bdb8-e3c49e21ec66,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+15-08-2019,29-08-2019,799d0738-d5cd-4161-bdb8-e3c49e21ec66,225358003,Wound care,284549007,Laceration of hand
+03-11-1994,,dadd331c-6143-41d1-bffb-d34b321ed157,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+03-06-2016,03-07-2016,dadd331c-6143-41d1-bffb-d34b321ed157,91251008,Physical therapy procedure,307731004,Injury of tendon of the rotator cuff of shoulder
+21-09-1972,,89752052-a38b-45f0-a590-3950bbb67bec,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+28-02-2001,,89752052-a38b-45f0-a590-3950bbb67bec,698360004,Diabetes self management plan,15777000,Prediabetes
+19-05-1959,,a9191572-cd67-4184-9945-a25eb3fa6ef0,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+24-05-1960,,a9191572-cd67-4184-9945-a25eb3fa6ef0,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+17-02-1965,03-03-1965,a9191572-cd67-4184-9945-a25eb3fa6ef0,91251008,Physical therapy procedure,70704007,Sprain of wrist
+12-06-1977,,bae73dce-20fa-4a6a-8e46-b2ed541f9296,718347000,Mental health care plan,36923009,Major depression  single episode
+26-06-1977,,bae73dce-20fa-4a6a-8e46-b2ed541f9296,734163000,Care Plan,,
+29-06-1980,,bae73dce-20fa-4a6a-8e46-b2ed541f9296,698360004,Diabetes self management plan,15777000,Prediabetes
+24-05-1998,,bae73dce-20fa-4a6a-8e46-b2ed541f9296,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+22-11-2015,13-12-2015,bae73dce-20fa-4a6a-8e46-b2ed541f9296,225358003,Wound care,370247008,Facial laceration
+11-07-2014,25-07-2014,da200ea3-c9eb-414b-b22a-86430059fd47,91251008,Physical therapy procedure,44465007,Sprain of ankle
+15-12-2013,,711d2093-5eb9-45a6-ad09-4b5c0371ad85,698360004,Diabetes self management plan,44054006,Diabetes
+01-04-2017,01-05-2017,711d2093-5eb9-45a6-ad09-4b5c0371ad85,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+05-05-1976,12-05-1976,89214f7b-82b7-460e-b583-415a688ccc3c,8.69761E+14,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+05-05-1978,11-04-1980,89214f7b-82b7-460e-b583-415a688ccc3c,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+30-01-1985,20-02-1985,89214f7b-82b7-460e-b583-415a688ccc3c,133901003,Burn care,403191005,Second degree burn
+13-10-2012,27-10-2012,a47e5737-065e-416f-8257-0c9f14382065,225358003,Wound care,283371005,Laceration of forearm
+13-02-1976,,28f36cfa-7696-4f73-ac4f-427e802199d9,384758001,Self-care interventions (procedure),,
+24-04-2012,23-01-2014,28f36cfa-7696-4f73-ac4f-427e802199d9,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+28-01-2016,,28f36cfa-7696-4f73-ac4f-427e802199d9,698360004,Diabetes self management plan,15777000,Prediabetes
+04-02-2019,18-02-2019,28f36cfa-7696-4f73-ac4f-427e802199d9,8.69761E+14,Urinary tract infection care,38822007,Cystitis
+23-01-2020,06-02-2020,28f36cfa-7696-4f73-ac4f-427e802199d9,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+30-07-2001,,ed5cc81e-619f-471d-aee6-2934124c58e4,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+30-01-2006,11-09-2006,ed5cc81e-619f-471d-aee6-2934124c58e4,134435003,Routine antenatal care,72892002,Normal pregnancy
+24-09-2012,13-05-2013,ed5cc81e-619f-471d-aee6-2934124c58e4,134435003,Routine antenatal care,72892002,Normal pregnancy
+17-11-2014,29-06-2015,ed5cc81e-619f-471d-aee6-2934124c58e4,134435003,Routine antenatal care,72892002,Normal pregnancy
+04-11-2019,,ed5cc81e-619f-471d-aee6-2934124c58e4,134435003,Routine antenatal care,72892002,Normal pregnancy
+14-04-1988,,dac134fa-7f57-4211-923a-e943a5c11d93,718347000,Mental health care plan,36923009,Major depression  single episode
+15-05-2003,,dac134fa-7f57-4211-923a-e943a5c11d93,698360004,Diabetes self management plan,15777000,Prediabetes
+18-05-2006,,dac134fa-7f57-4211-923a-e943a5c11d93,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+21-08-1947,,144edc8e-936e-42d7-8e7d-f3578cf80cc2,384758001,Self-care interventions (procedure),,
+17-07-2011,21-08-2011,144edc8e-936e-42d7-8e7d-f3578cf80cc2,91251008,Physical therapy procedure,44465007,Sprain of ankle
+10-08-2013,24-08-2013,144edc8e-936e-42d7-8e7d-f3578cf80cc2,91251008,Physical therapy procedure,44465007,Sprain of ankle
+04-02-2017,12-04-2017,144edc8e-936e-42d7-8e7d-f3578cf80cc2,91251008,Physical therapy procedure,30832001,Rupture of patellar tendon
+17-07-2007,,53d371cc-eb68-4740-a68c-39707c6cb519,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+30-04-2012,29-06-2012,53d371cc-eb68-4740-a68c-39707c6cb519,385691007,Fracture care,16114001,Fracture of ankle
+21-05-2014,05-08-2014,53d371cc-eb68-4740-a68c-39707c6cb519,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+05-05-1994,,8d1ba4bb-7250-4295-be1c-5d0d423e55f7,698360004,Diabetes self management plan,15777000,Prediabetes
+01-02-2018,03-04-2018,8d1ba4bb-7250-4295-be1c-5d0d423e55f7,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+05-10-1964,,be249d5b-327e-4c30-8fb2-3a1c587fe5ad,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+27-03-1995,,be249d5b-327e-4c30-8fb2-3a1c587fe5ad,698360004,Diabetes self management plan,15777000,Prediabetes
+31-08-2018,12-08-2019,be249d5b-327e-4c30-8fb2-3a1c587fe5ad,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+03-10-1982,,846b0d5b-e5f5-4fd6-8ae4-7aa8e13a17c3,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+01-02-2004,,846b0d5b-e5f5-4fd6-8ae4-7aa8e13a17c3,698360004,Diabetes self management plan,15777000,Prediabetes
+21-09-2011,18-03-2012,846b0d5b-e5f5-4fd6-8ae4-7aa8e13a17c3,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+24-12-2016,16-04-2017,846b0d5b-e5f5-4fd6-8ae4-7aa8e13a17c3,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+18-05-2019,15-06-2019,55301b9d-4de5-4ab7-a727-579258ce4e71,91251008,Physical therapy procedure,70704007,Sprain of wrist
+30-05-1958,,9fe859fa-d775-494d-ae34-fa648e5d186d,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+23-03-2007,,9fe859fa-d775-494d-ae34-fa648e5d186d,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+22-11-2016,28-04-2017,9fe859fa-d775-494d-ae34-fa648e5d186d,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+21-05-2010,20-07-2010,d721b0eb-f819-472e-997a-b057ca7fab01,47387005,Head injury rehabilitation,62564004,Concussion with loss of consciousness
+10-05-2012,14-06-2012,d721b0eb-f819-472e-997a-b057ca7fab01,91251008,Physical therapy procedure,44465007,Sprain of ankle
+28-06-2009,,df91aedf-3e17-44c3-b273-62e35f518475,711282006,Skin condition care,24079001,Atopic dermatitis
+18-11-2009,,df91aedf-3e17-44c3-b273-62e35f518475,384758001,Self-care interventions (procedure),,
+31-10-2011,,df91aedf-3e17-44c3-b273-62e35f518475,699728000,Asthma self management,233678006,Childhood asthma
+06-04-2012,20-04-2012,df91aedf-3e17-44c3-b273-62e35f518475,91251008,Physical therapy procedure,44465007,Sprain of ankle
+22-10-2016,17-12-2016,df91aedf-3e17-44c3-b273-62e35f518475,386522008,Overactivity/inattention behavior management,192127007,Child attention deficit disorder
+01-10-2004,,01e1f394-7219-4189-bceb-3cbd90cff90b,698360004,Diabetes self management plan,15777000,Prediabetes
+19-03-2010,15-10-2010,01e1f394-7219-4189-bceb-3cbd90cff90b,134435003,Routine antenatal care,72892002,Normal pregnancy
+13-04-2011,04-05-2011,01e1f394-7219-4189-bceb-3cbd90cff90b,133901003,Burn care,403191005,Second degree burn
+10-05-2013,27-12-2013,01e1f394-7219-4189-bceb-3cbd90cff90b,134435003,Routine antenatal care,72892002,Normal pregnancy
+03-08-2002,,f6df6e77-35dc-457b-b998-31b780ada07f,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+18-08-2013,,d1639077-59f3-401f-a058-2ad70502f93f,384758001,Self-care interventions (procedure),,
+16-11-1985,,0c5aa52a-3b1d-4289-af16-29f7a2d07fec,384758001,Self-care interventions (procedure),,
+20-02-2011,02-10-2011,0c5aa52a-3b1d-4289-af16-29f7a2d07fec,134435003,Routine antenatal care,72892002,Normal pregnancy
+10-04-2016,13-11-2016,0c5aa52a-3b1d-4289-af16-29f7a2d07fec,134435003,Routine antenatal care,72892002,Normal pregnancy
+20-09-2019,,0c5aa52a-3b1d-4289-af16-29f7a2d07fec,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+17-12-2019,31-12-2019,0c5aa52a-3b1d-4289-af16-29f7a2d07fec,737471002,Minor surgery care management (procedure),,
+23-07-2018,01-09-2018,2a88cb57-86fa-4259-93bf-3956e91b07f4,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+01-11-2018,01-12-2018,2a88cb57-86fa-4259-93bf-3956e91b07f4,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+18-05-2019,,2a88cb57-86fa-4259-93bf-3956e91b07f4,384758001,Self-care interventions (procedure),,
+08-07-1998,,e061409e-4b85-4ec1-b1f7-02677d51f763,384758001,Self-care interventions (procedure),,
+30-05-2001,29-03-2015,e061409e-4b85-4ec1-b1f7-02677d51f763,711282006,Skin condition care,24079001,Atopic dermatitis
+23-02-2010,07-10-2010,e061409e-4b85-4ec1-b1f7-02677d51f763,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+16-09-2010,20-03-2014,e061409e-4b85-4ec1-b1f7-02677d51f763,170836005,Allergic disorder monitoring,,
+05-11-2015,,e061409e-4b85-4ec1-b1f7-02677d51f763,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+19-10-2017,03-05-2018,e061409e-4b85-4ec1-b1f7-02677d51f763,134435003,Routine antenatal care,72892002,Normal pregnancy
+23-09-2010,23-10-2010,6ec4e56c-9a9d-49c8-8fbe-cfef93c14b6b,385691007,Fracture care,263102004,Fracture subluxation of wrist
+14-07-2012,04-08-2012,6ec4e56c-9a9d-49c8-8fbe-cfef93c14b6b,133901003,Burn care,403191005,Second degree burn
+01-03-2019,22-03-2019,6ec4e56c-9a9d-49c8-8fbe-cfef93c14b6b,225358003,Wound care,283371005,Laceration of forearm
+25-04-2010,17-03-2011,733bbea8-c5a6-4599-86ec-9a797ce87e5d,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+09-09-2012,07-10-2012,733bbea8-c5a6-4599-86ec-9a797ce87e5d,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+14-04-2017,05-05-2017,733bbea8-c5a6-4599-86ec-9a797ce87e5d,91251008,Physical therapy procedure,44465007,Sprain of ankle
+19-02-2020,20-03-2020,733bbea8-c5a6-4599-86ec-9a797ce87e5d,385691007,Fracture care,58150001,Fracture of clavicle
+04-11-1996,,76acc19c-38d4-4fa9-83e4-cf9bdc82340d,699728000,Asthma self management,233678006,Childhood asthma
+14-06-2013,10-01-2014,76acc19c-38d4-4fa9-83e4-cf9bdc82340d,134435003,Routine antenatal care,72892002,Normal pregnancy
+14-04-2017,27-10-2017,76acc19c-38d4-4fa9-83e4-cf9bdc82340d,134435003,Routine antenatal care,72892002,Normal pregnancy
+13-01-2018,27-01-2018,76acc19c-38d4-4fa9-83e4-cf9bdc82340d,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+15-04-2015,06-05-2015,f71bb059-3634-47a6-b689-04320a5c4387,225358003,Wound care,284549007,Laceration of hand
+25-01-2017,24-02-2017,f71bb059-3634-47a6-b689-04320a5c4387,385691007,Fracture care,58150001,Fracture of clavicle
+30-09-1986,,ccbd3a61-50ff-4f6f-8d64-8105c3fc54cf,384758001,Self-care interventions (procedure),,
+28-10-1999,,ccbd3a61-50ff-4f6f-8d64-8105c3fc54cf,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+05-08-2013,11-10-2013,ccbd3a61-50ff-4f6f-8d64-8105c3fc54cf,91251008,Physical therapy procedure,444448004,Injury of medial collateral ligament of knee
+05-03-1992,,bb9a366c-e4d6-4dd0-9a70-e9f93529d6ff,384758001,Self-care interventions (procedure),,
+03-04-2006,,bb9a366c-e4d6-4dd0-9a70-e9f93529d6ff,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+31-01-2020,,bb9a366c-e4d6-4dd0-9a70-e9f93529d6ff,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+26-05-2005,,8a8eb96d-354d-4d42-9716-738164a19a59,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+12-10-2013,11-11-2013,8a8eb96d-354d-4d42-9716-738164a19a59,385691007,Fracture care,58150001,Fracture of clavicle
+22-11-2015,28-07-2016,8a8eb96d-354d-4d42-9716-738164a19a59,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+10-12-2019,08-02-2020,8a8eb96d-354d-4d42-9716-738164a19a59,47387005,Head injury rehabilitation,62564004,Concussion with loss of consciousness
+07-11-2002,,46768e09-6b9f-49fe-9480-529079f64562,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+04-02-2010,02-09-2010,46768e09-6b9f-49fe-9480-529079f64562,134435003,Routine antenatal care,72892002,Normal pregnancy
+11-11-2013,18-11-2013,46768e09-6b9f-49fe-9480-529079f64562,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+27-11-2014,02-07-2015,46768e09-6b9f-49fe-9480-529079f64562,134435003,Routine antenatal care,72892002,Normal pregnancy
+30-03-2016,20-04-2016,4ffa7fe0-5454-480a-b648-ed038052dda1,225358003,Wound care,370247008,Facial laceration
+09-02-2018,02-03-2018,4ffa7fe0-5454-480a-b648-ed038052dda1,91251008,Physical therapy procedure,44465007,Sprain of ankle
+26-06-1999,,3fe783d9-b8f8-4d21-b320-4fb7745702db,698360004,Diabetes self management plan,15777000,Prediabetes
+08-01-2011,27-08-2011,3fe783d9-b8f8-4d21-b320-4fb7745702db,134435003,Routine antenatal care,72892002,Normal pregnancy
+03-08-2014,24-08-2014,3fe783d9-b8f8-4d21-b320-4fb7745702db,91251008,Physical therapy procedure,70704007,Sprain of wrist
+28-09-2015,12-10-2015,3fe783d9-b8f8-4d21-b320-4fb7745702db,737471002,Minor surgery care management (procedure),,
+11-09-1990,,8a9b659b-4fff-4cef-b189-adbc7914caca,734163000,Care plan (record artifact),55680006,Drug overdose
+17-02-1991,,8a9b659b-4fff-4cef-b189-adbc7914caca,698360004,Diabetes self management plan,15777000,Prediabetes
+24-02-1996,02-03-1996,8a9b659b-4fff-4cef-b189-adbc7914caca,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+09-04-2012,30-12-2012,8a9b659b-4fff-4cef-b189-adbc7914caca,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+29-01-1977,,40c5db10-1a0d-4eef-b5de-931edd347fc2,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+23-08-2018,29-09-2018,8a9b659b-4fff-4cef-b189-adbc7914caca,91251008,Physical therapy procedure,444448004,Injury of medial collateral ligament of knee
+28-06-2019,,8a9b659b-4fff-4cef-b189-adbc7914caca,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+20-05-2012,10-06-2012,7d2e09cb-ceda-47d6-8cb2-5e1eb725665d,91251008,Physical therapy procedure,44465007,Sprain of ankle
+25-02-2015,26-04-2015,7d2e09cb-ceda-47d6-8cb2-5e1eb725665d,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+14-02-2017,28-02-2017,7d2e09cb-ceda-47d6-8cb2-5e1eb725665d,91251008,Physical therapy procedure,44465007,Sprain of ankle
+18-12-2012,01-01-2013,4b414e31-2791-4942-9c28-46a299805848,8.69761E+14,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+15-12-2013,29-12-2013,4b414e31-2791-4942-9c28-46a299805848,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+30-04-1996,,cad44a83-848c-4019-a175-291a150b9d05,698360004,Diabetes self management plan,44054006,Diabetes
+23-04-2016,28-05-2016,cad44a83-848c-4019-a175-291a150b9d05,133901003,Burn care,403191005,Second degree burn
+18-04-2018,09-05-2018,cad44a83-848c-4019-a175-291a150b9d05,225358003,Wound care,370247008,Facial laceration
+29-01-2020,06-03-2020,cad44a83-848c-4019-a175-291a150b9d05,91251008,Physical therapy procedure,30832001,Rupture of patellar tendon
+06-03-2011,20-03-2011,1f8da3b0-dd67-4925-a6d9-43a02d8402a7,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+30-03-2011,02-11-2011,1f8da3b0-dd67-4925-a6d9-43a02d8402a7,134435003,Routine antenatal care,72892002,Normal pregnancy
+01-05-2013,04-12-2013,1f8da3b0-dd67-4925-a6d9-43a02d8402a7,134435003,Routine antenatal care,72892002,Normal pregnancy
+23-01-2018,19-11-2018,1f8da3b0-dd67-4925-a6d9-43a02d8402a7,711282006,Skin condition care,40275004,Contact dermatitis
+28-04-1974,,71e13815-55fb-4734-bcac-6079160d82a0,384758001,Self-care interventions (procedure),,
+09-06-1975,,71e13815-55fb-4734-bcac-6079160d82a0,699728000,Asthma self management,233678006,Childhood asthma
+27-07-1991,,71e13815-55fb-4734-bcac-6079160d82a0,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+02-04-1982,05-07-1982,bb089c44-7126-4acd-a2fa-5e10dfa77516,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+21-02-1985,28-02-1985,bb089c44-7126-4acd-a2fa-5e10dfa77516,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+12-07-1994,12-09-1994,bb089c44-7126-4acd-a2fa-5e10dfa77516,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+18-09-1995,,bb089c44-7126-4acd-a2fa-5e10dfa77516,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+08-06-2007,15-06-2007,bb089c44-7126-4acd-a2fa-5e10dfa77516,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+02-01-2010,13-12-2010,bb089c44-7126-4acd-a2fa-5e10dfa77516,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+09-03-2012,24-12-2012,bb089c44-7126-4acd-a2fa-5e10dfa77516,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+05-10-2014,19-10-2014,bb089c44-7126-4acd-a2fa-5e10dfa77516,91251008,Physical therapy procedure,70704007,Sprain of wrist
+19-03-2020,,bb089c44-7126-4acd-a2fa-5e10dfa77516,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+08-08-1998,,d7f42940-d51d-4fc2-a604-03297e02f656,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+22-08-2015,,d7f42940-d51d-4fc2-a604-03297e02f656,386257007,Demential management,230265002,Familial Alzheimer's disease of early onset (disorder)
+13-05-1971,,d46af421-9bb5-4b8e-b763-b968a6bebd0c,698360004,Diabetes self management plan,15777000,Prediabetes
+14-11-1984,,b118adba-1330-4ba0-8d96-fe610dfbd41e,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+09-02-2000,,b118adba-1330-4ba0-8d96-fe610dfbd41e,698360004,Diabetes self management plan,15777000,Prediabetes
+09-02-2017,07-09-2017,d286528e-a39a-4c04-8545-5e648f781052,134435003,Routine antenatal care,72892002,Normal pregnancy
+21-09-2013,,7f9a57e5-cfc5-4970-b19f-1a7b6ce22882,698360004,Diabetes self management plan,44054006,Diabetes
+21-09-2013,,7f9a57e5-cfc5-4970-b19f-1a7b6ce22882,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+18-02-1962,,ab294050-c4b7-4116-aa15-3525c5076472,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+26-05-1957,,852f4588-ba8f-4eeb-94fe-5c3c974ab114,384758001,Self-care interventions (procedure),,
+12-01-1998,,852f4588-ba8f-4eeb-94fe-5c3c974ab114,698360004,Diabetes self management plan,15777000,Prediabetes
+18-10-1999,,852f4588-ba8f-4eeb-94fe-5c3c974ab114,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+13-02-2015,29-02-2016,852f4588-ba8f-4eeb-94fe-5c3c974ab114,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+20-02-2006,,d0355c37-6594-4147-91ff-8b82dfb0a6c2,698360004,Diabetes self management plan,44054006,Diabetes
+07-01-2013,14-01-2013,d0355c37-6594-4147-91ff-8b82dfb0a6c2,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+15-05-2013,07-04-2014,d0355c37-6594-4147-91ff-8b82dfb0a6c2,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+30-06-1978,,a708bca4-8fc9-4567-8c22-8b13d44f4f45,698360004,Diabetes self management plan,44054006,Diabetes
+03-07-1981,,a708bca4-8fc9-4567-8c22-8b13d44f4f45,734163000,Care Plan,,
+01-04-1995,23-10-2011,a708bca4-8fc9-4567-8c22-8b13d44f4f45,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+29-03-2012,29-06-2012,a708bca4-8fc9-4567-8c22-8b13d44f4f45,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+08-10-2016,,a708bca4-8fc9-4567-8c22-8b13d44f4f45,736252007,Cancer care plan,126906006,Neoplasm of prostate
+13-03-1976,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,698360004,Diabetes self management plan,44054006,Diabetes
+18-06-2018,09-07-2018,a708bca4-8fc9-4567-8c22-8b13d44f4f45,225358003,Wound care,284551006,Laceration of foot
+14-01-2017,11-02-2017,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+13-12-2017,03-01-2018,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+26-07-2003,,844d1c39-6ca2-48df-a3de-f9a12633f69c,698360004,Diabetes self management plan,15777000,Prediabetes
+08-04-2012,06-05-2012,844d1c39-6ca2-48df-a3de-f9a12633f69c,91251008,Physical therapy procedure,44465007,Sprain of ankle
+26-04-2014,24-05-2014,844d1c39-6ca2-48df-a3de-f9a12633f69c,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+07-07-2014,,844d1c39-6ca2-48df-a3de-f9a12633f69c,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+07-06-2017,06-08-2017,844d1c39-6ca2-48df-a3de-f9a12633f69c,385691007,Fracture care,263102004,Fracture subluxation of wrist
+14-07-2018,09-02-2020,844d1c39-6ca2-48df-a3de-f9a12633f69c,395082007,Cancer care plan,363406005,Malignant tumor of colon
+21-07-2018,02-08-2018,844d1c39-6ca2-48df-a3de-f9a12633f69c,7.81831E+14,Major surgery care management,363406005,Malignant tumor of colon
+03-06-2010,07-11-2010,355b4981-d84e-4055-96db-956464714214,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+14-01-2018,26-08-2018,355b4981-d84e-4055-96db-956464714214,134435003,Routine antenatal care,72892002,Normal pregnancy
+28-06-2013,30-09-2013,f369d5b2-a190-4ca5-bd2b-c10016b1db1d,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+16-12-1982,,36cfc9c6-c720-41a3-ba03-bc9d11840564,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+19-06-2014,26-06-2014,36cfc9c6-c720-41a3-ba03-bc9d11840564,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+10-04-2015,15-05-2015,36cfc9c6-c720-41a3-ba03-bc9d11840564,91251008,Physical therapy procedure,70704007,Sprain of wrist
+20-11-2019,20-12-2019,36cfc9c6-c720-41a3-ba03-bc9d11840564,385691007,Fracture care,58150001,Fracture of clavicle
+04-08-2012,18-08-2012,6e6ae8f3-514f-4686-b1e4-14baeacb671f,225358003,Wound care,283385000,Laceration of thigh
+17-05-2013,24-05-2013,6e6ae8f3-514f-4686-b1e4-14baeacb671f,8.69761E+14,Urinary tract infection care,38822007,Cystitis
+16-11-1964,,b2b612b0-d4ac-4b83-8d33-4ed6b295c01c,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+03-04-1989,,b2b612b0-d4ac-4b83-8d33-4ed6b295c01c,698360004,Diabetes self management plan,15777000,Prediabetes
+04-10-2002,11-10-2002,b2b612b0-d4ac-4b83-8d33-4ed6b295c01c,8.69761E+14,Urinary tract infection care,38822007,Cystitis
+19-07-2011,,b953a648-a3e3-4d9f-a4be-28e13deaa08f,698360004,Diabetes self management plan,15777000,Prediabetes
+28-04-2012,12-05-2012,b953a648-a3e3-4d9f-a4be-28e13deaa08f,737471002,Minor surgery care management (procedure),,
+15-01-2014,12-02-2014,b953a648-a3e3-4d9f-a4be-28e13deaa08f,133901003,Burn care,403190006,First degree burn
+28-11-2006,16-07-2007,b2b612b0-d4ac-4b83-8d33-4ed6b295c01c,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+03-11-2007,17-11-2007,b2b612b0-d4ac-4b83-8d33-4ed6b295c01c,8.69761E+14,Urinary tract infection care,38822007,Cystitis
+25-07-2017,,b953a648-a3e3-4d9f-a4be-28e13deaa08f,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+22-01-2018,05-02-2018,b953a648-a3e3-4d9f-a4be-28e13deaa08f,225358003,Wound care,283371005,Laceration of forearm
+15-04-2012,06-05-2012,c4790199-5f06-4622-932a-1664a684d670,225358003,Wound care,283371005,Laceration of forearm
+01-03-2016,01-11-2016,c4790199-5f06-4622-932a-1664a684d670,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+13-01-2008,,b2b612b0-d4ac-4b83-8d33-4ed6b295c01c,182964004,Terminal care,424132000,Non-small cell carcinoma of lung  TNM stage 1 (disorder)
+30-12-2008,06-01-2009,b2b612b0-d4ac-4b83-8d33-4ed6b295c01c,8.69761E+14,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+29-03-2017,13-07-2018,fc4aa89c-e441-4c0b-841f-3d16ffe1b235,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+02-02-2019,23-02-2019,fc4aa89c-e441-4c0b-841f-3d16ffe1b235,91251008,Physical therapy procedure,44465007,Sprain of ankle
+13-05-2002,,bf4c0305-f14c-4035-be21-8781c675b7db,698360004,Diabetes self management plan,15777000,Prediabetes
+15-07-1968,,b096000e-3f69-4940-89ce-1230ee9d5a0a,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+22-09-1980,,b096000e-3f69-4940-89ce-1230ee9d5a0a,698360004,Diabetes self management plan,15777000,Prediabetes
+17-06-2006,,b096000e-3f69-4940-89ce-1230ee9d5a0a,735984001,Heart failure self management plan,88805009,Chronic congestive heart failure (disorder)
+22-01-1991,,f64742bf-8cac-4780-ae38-3e6781e0d008,384758001,Self-care interventions (procedure),,
+19-02-2005,,f64742bf-8cac-4780-ae38-3e6781e0d008,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+09-12-2007,,b096000e-3f69-4940-89ce-1230ee9d5a0a,736353004,Inpatient care plan (record artifact),,
+20-10-2008,,d5bf8e49-c70c-45df-9675-cf3dff4458d5,698360004,Diabetes self management plan,15777000,Prediabetes
+26-09-2017,10-10-2017,d5bf8e49-c70c-45df-9675-cf3dff4458d5,225358003,Wound care,284551006,Laceration of foot
+25-07-2002,,9423451c-8c37-4700-a059-f8c2f9c636b0,699728000,Asthma self management,233678006,Childhood asthma
+21-09-2015,02-05-2016,9423451c-8c37-4700-a059-f8c2f9c636b0,134435003,Routine antenatal care,72892002,Normal pregnancy
+16-04-2017,11-09-2017,9423451c-8c37-4700-a059-f8c2f9c636b0,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+02-12-2019,,9423451c-8c37-4700-a059-f8c2f9c636b0,134435003,Routine antenatal care,72892002,Normal pregnancy
+25-07-1992,,4a52ea9c-d410-4b78-a4da-6053e2ed0787,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+29-07-2000,17-11-2012,4a52ea9c-d410-4b78-a4da-6053e2ed0787,134435003,Routine antenatal care,72892002,Normal pregnancy
+06-11-2010,,4a52ea9c-d410-4b78-a4da-6053e2ed0787,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+17-11-2012,,4a52ea9c-d410-4b78-a4da-6053e2ed0787,698360004,Diabetes self management plan,15777000,Prediabetes
+20-12-2014,,4a52ea9c-d410-4b78-a4da-6053e2ed0787,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+24-09-2017,08-10-2017,9ad2f1f3-28b6-4af0-996b-ab17653d8f7b,91251008,Physical therapy procedure,70704007,Sprain of wrist
+03-09-2018,17-09-2018,9ad2f1f3-28b6-4af0-996b-ab17653d8f7b,8.69761E+14,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+28-10-2019,04-11-2019,9ad2f1f3-28b6-4af0-996b-ab17653d8f7b,8.69761E+14,Urinary tract infection care,38822007,Cystitis
+12-09-1989,,fdb2a2ee-09c2-499b-b324-d998d5226f19,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+29-09-1997,,fdb2a2ee-09c2-499b-b324-d998d5226f19,698360004,Diabetes self management plan,15777000,Prediabetes
+31-10-2015,14-11-2015,fdb2a2ee-09c2-499b-b324-d998d5226f19,225358003,Wound care,283385000,Laceration of thigh
+22-07-2018,05-08-2018,0e003777-2825-44c6-b090-c6df626f7f4a,91251008,Physical therapy procedure,44465007,Sprain of ankle
+21-08-2003,,6ca038f1-a3f6-4c2d-848e-bab8e7ae7101,384758001,Self-care interventions (procedure),,
+29-07-2014,30-01-2018,6ca038f1-a3f6-4c2d-848e-bab8e7ae7101,170836005,Allergic disorder monitoring,,
+25-11-2014,09-12-2014,6ca038f1-a3f6-4c2d-848e-bab8e7ae7101,225358003,Wound care,370247008,Facial laceration
+17-09-2019,,6ca038f1-a3f6-4c2d-848e-bab8e7ae7101,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+03-09-1983,,d011ac4d-34e9-4887-a0bf-cf7b8a6f4abb,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+24-05-2011,14-06-2011,d011ac4d-34e9-4887-a0bf-cf7b8a6f4abb,91251008,Physical therapy procedure,44465007,Sprain of ankle
+28-02-2015,,d011ac4d-34e9-4887-a0bf-cf7b8a6f4abb,698360004,Diabetes self management plan,15777000,Prediabetes
+09-07-2016,11-03-2017,d011ac4d-34e9-4887-a0bf-cf7b8a6f4abb,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+07-04-2018,,d011ac4d-34e9-4887-a0bf-cf7b8a6f4abb,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+29-03-2008,,cd900636-aee9-41b1-acf1-557efa0fd9cd,384758001,Self-care interventions (procedure),,
+09-03-2011,,cd900636-aee9-41b1-acf1-557efa0fd9cd,699728000,Asthma self management,233678006,Childhood asthma
+07-03-2020,,cd900636-aee9-41b1-acf1-557efa0fd9cd,170836005,Allergic disorder monitoring,,
+01-04-2011,22-04-2011,de6ebe11-d869-447a-8fbc-08784ee1fe0f,225358003,Wound care,284549007,Laceration of hand
+29-01-1983,19-02-1983,64fabecd-5e28-4fc1-915a-678c80dac058,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+01-06-1992,,64fabecd-5e28-4fc1-915a-678c80dac058,698360004,Diabetes self management plan,15777000,Prediabetes
+17-07-2006,,64fabecd-5e28-4fc1-915a-678c80dac058,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+08-05-2007,,64fabecd-5e28-4fc1-915a-678c80dac058,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+26-02-1988,,5b891358-1bb3-4bbf-b8a6-a73fbe58efe7,698360004,Diabetes self management plan,44054006,Diabetes
+08-12-2012,,5b891358-1bb3-4bbf-b8a6-a73fbe58efe7,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+26-06-2012,10-07-2012,c933554e-8a17-480a-b0fc-17b8757924db,225358003,Wound care,370247008,Facial laceration
+20-01-2013,01-09-2013,2a113375-afae-45a3-b008-9fbb7fca92a5,134435003,Routine antenatal care,72892002,Normal pregnancy
+26-10-2014,31-05-2015,2a113375-afae-45a3-b008-9fbb7fca92a5,134435003,Routine antenatal care,72892002,Normal pregnancy
+31-03-1994,,b4f1aa40-1a13-43cc-9528-8dcde700ecf0,698360004,Diabetes self management plan,15777000,Prediabetes
+16-09-1999,,b4f1aa40-1a13-43cc-9528-8dcde700ecf0,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+03-03-2001,,b4f1aa40-1a13-43cc-9528-8dcde700ecf0,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+30-10-2010,20-11-2010,b4f1aa40-1a13-43cc-9528-8dcde700ecf0,225358003,Wound care,284549007,Laceration of hand
+11-06-2018,25-06-2018,b4f1aa40-1a13-43cc-9528-8dcde700ecf0,225358003,Wound care,283371005,Laceration of forearm
+16-03-2020,06-04-2020,b4f1aa40-1a13-43cc-9528-8dcde700ecf0,225358003,Wound care,284551006,Laceration of foot
+01-01-2015,22-01-2015,7dea9311-ef15-4bb0-8d61-dde04dde3557,91251008,Physical therapy procedure,44465007,Sprain of ankle
+06-01-2016,10-08-2016,7dea9311-ef15-4bb0-8d61-dde04dde3557,134435003,Routine antenatal care,72892002,Normal pregnancy
+22-07-2015,21-08-2015,1b71b396-b42b-4d33-926e-8c5daefba8ad,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+01-01-2013,22-01-2013,76353d9c-9861-4ca8-8d24-d458b1e88da5,225358003,Wound care,283385000,Laceration of thigh
+25-07-2018,22-08-2018,76353d9c-9861-4ca8-8d24-d458b1e88da5,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+24-02-1977,,449a9a85-5ffc-4df5-a090-9d6e4c6006cb,384758001,Self-care interventions (procedure),,
+24-07-1994,,449a9a85-5ffc-4df5-a090-9d6e4c6006cb,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+17-06-2013,24-06-2013,449a9a85-5ffc-4df5-a090-9d6e4c6006cb,8.69761E+14,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+29-01-2015,22-11-2015,449a9a85-5ffc-4df5-a090-9d6e4c6006cb,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+09-12-2018,,449a9a85-5ffc-4df5-a090-9d6e4c6006cb,698360004,Diabetes self management plan,15777000,Prediabetes
+27-04-2010,,0f9eca6a-cee2-4155-94ae-4e43b3b55f06,384758001,Self-care interventions (procedure),,
+08-05-2010,29-05-2010,0f9eca6a-cee2-4155-94ae-4e43b3b55f06,225358003,Wound care,370247008,Facial laceration
+24-04-2011,24-05-2011,0f9eca6a-cee2-4155-94ae-4e43b3b55f06,385691007,Fracture care,16114001,Fracture of ankle
+06-07-2016,13-04-2017,0f9eca6a-cee2-4155-94ae-4e43b3b55f06,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+04-04-2019,,0f9eca6a-cee2-4155-94ae-4e43b3b55f06,170836005,Allergic disorder monitoring,,
+27-06-1994,,bbcba0c9-f5ea-4fce-a726-adde5ffcb712,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+18-01-1984,,7b51cca8-284b-42a5-8117-cc21f48454f5,384758001,Self-care interventions (procedure),,
+02-12-2012,09-12-2012,7b51cca8-284b-42a5-8117-cc21f48454f5,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+26-10-2015,14-03-2017,7b51cca8-284b-42a5-8117-cc21f48454f5,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+31-05-2004,,e2885dfa-4d69-4ec3-b2a1-f3713356637f,698360004,Diabetes self management plan,15777000,Prediabetes
+19-06-2014,03-07-2014,e2885dfa-4d69-4ec3-b2a1-f3713356637f,737471002,Minor surgery care management (procedure),,
+18-04-1992,,552600f9-53d6-4d77-add6-0d364bb15b63,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+01-11-2013,,c08e3ee0-69fa-4a66-ad6f-e5905400d046,698360004,Diabetes self management plan,15777000,Prediabetes
+22-05-2014,05-06-2014,c08e3ee0-69fa-4a66-ad6f-e5905400d046,225358003,Wound care,284551006,Laceration of foot
+27-06-2014,09-01-2015,c08e3ee0-69fa-4a66-ad6f-e5905400d046,134435003,Routine antenatal care,72892002,Normal pregnancy
+06-10-2016,13-10-2016,c08e3ee0-69fa-4a66-ad6f-e5905400d046,8.69761E+14,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+06-11-2018,13-11-2018,c08e3ee0-69fa-4a66-ad6f-e5905400d046,8.69761E+14,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+12-06-1982,,1821a44e-ba5e-4250-aae9-23ec9c0c26f1,698360004,Diabetes self management plan,15777000,Prediabetes
+12-06-1982,,1821a44e-ba5e-4250-aae9-23ec9c0c26f1,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+29-05-2013,07-12-2013,1821a44e-ba5e-4250-aae9-23ec9c0c26f1,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+11-06-2015,09-09-2015,1821a44e-ba5e-4250-aae9-23ec9c0c26f1,385691007,Fracture care,65966004,Fracture of forearm
+11-08-2010,15-09-2010,d9f90c91-2e37-40ca-a574-89b33a120d16,91251008,Physical therapy procedure,70704007,Sprain of wrist
+25-04-2011,09-05-2011,d9f90c91-2e37-40ca-a574-89b33a120d16,737471002,Minor surgery care management (procedure),,
+12-03-2017,16-04-2017,d9f90c91-2e37-40ca-a574-89b33a120d16,91251008,Physical therapy procedure,44465007,Sprain of ankle
+08-03-1954,,09616ead-22c8-4210-8cb9-2fdc28e043ca,384758001,Self-care interventions (procedure),,
+27-09-1971,,09616ead-22c8-4210-8cb9-2fdc28e043ca,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+17-05-2017,12-06-2017,09616ead-22c8-4210-8cb9-2fdc28e043ca,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+10-04-2014,27-11-2014,1c3fea30-6be0-419a-b342-50767fd55440,134435003,Routine antenatal care,72892002,Normal pregnancy
+19-01-1991,,5ad3dd08-6e9e-4feb-98ff-2c03ad4d3ef1,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+16-06-2013,31-05-2014,5ad3dd08-6e9e-4feb-98ff-2c03ad4d3ef1,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+06-07-2013,08-02-2014,5ad3dd08-6e9e-4feb-98ff-2c03ad4d3ef1,134435003,Routine antenatal care,72892002,Normal pregnancy
+26-03-2016,29-10-2016,5ad3dd08-6e9e-4feb-98ff-2c03ad4d3ef1,134435003,Routine antenatal care,72892002,Normal pregnancy
+07-12-1969,,fcd3f564-67de-4ed5-bd3d-2c39c3338653,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+12-04-1992,,fcd3f564-67de-4ed5-bd3d-2c39c3338653,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+30-09-2005,,fcd3f564-67de-4ed5-bd3d-2c39c3338653,408869004,Musculoskeletal care,239872002,Osteoarthritis of hip
+25-01-2008,13-07-2008,fcd3f564-67de-4ed5-bd3d-2c39c3338653,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+16-02-1990,02-04-1990,f5770761-ebcf-49ff-883a-b8040926f9a2,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+06-07-1995,06-05-1996,f5770761-ebcf-49ff-883a-b8040926f9a2,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+21-03-2011,24-10-2011,f5770761-ebcf-49ff-883a-b8040926f9a2,134435003,Routine antenatal care,72892002,Normal pregnancy
+18-04-2016,14-11-2016,f5770761-ebcf-49ff-883a-b8040926f9a2,134435003,Routine antenatal care,72892002,Normal pregnancy
+16-08-2018,30-08-2018,f5770761-ebcf-49ff-883a-b8040926f9a2,225358003,Wound care,284549007,Laceration of hand
+04-10-2019,,f5770761-ebcf-49ff-883a-b8040926f9a2,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+28-05-2001,,e3bba570-83a5-4105-b766-27582eb6ba59,698360004,Diabetes self management plan,15777000,Prediabetes
+06-02-2011,20-02-2011,e3bba570-83a5-4105-b766-27582eb6ba59,225358003,Wound care,283371005,Laceration of forearm
+11-05-2011,18-05-2011,e3bba570-83a5-4105-b766-27582eb6ba59,8.69761E+14,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+26-02-2012,,e3bba570-83a5-4105-b766-27582eb6ba59,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+03-07-2018,08-04-2019,e3bba570-83a5-4105-b766-27582eb6ba59,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+24-07-2016,,010d4a3a-2316-45ed-ae15-16f01c611674,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+18-10-1953,,1786920f-c6fd-4fa7-a0dc-70a5ccc1fc79,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+15-12-2014,19-01-2015,8d236c5c-485e-4030-b3e8-20e580afbb0a,91251008,Physical therapy procedure,70704007,Sprain of wrist
+01-11-2017,15-11-2017,8d236c5c-485e-4030-b3e8-20e580afbb0a,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+24-12-2005,,f54dd1af-4b23-4781-9c2e-1960bdccac29,698360004,Diabetes self management plan,15777000,Prediabetes
+11-06-2010,11-07-2010,f54dd1af-4b23-4781-9c2e-1960bdccac29,47387005,Head injury rehabilitation,62564004,Concussion with loss of consciousness
+09-11-2012,16-11-2012,f54dd1af-4b23-4781-9c2e-1960bdccac29,8.69761E+14,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+24-12-2017,31-12-2017,f54dd1af-4b23-4781-9c2e-1960bdccac29,8.69761E+14,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+07-12-2004,,33454fc9-b2ea-407a-9a9d-64897cf44093,384758001,Self-care interventions (procedure),,
+21-10-2008,,33454fc9-b2ea-407a-9a9d-64897cf44093,711282006,Skin condition care,24079001,Atopic dermatitis
+14-03-2017,,33454fc9-b2ea-407a-9a9d-64897cf44093,170836005,Allergic disorder monitoring,,
+19-01-1975,,066c0f3d-90bb-4082-99ec-f307c4759f50,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+15-06-1997,,066c0f3d-90bb-4082-99ec-f307c4759f50,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+23-06-2002,,066c0f3d-90bb-4082-99ec-f307c4759f50,698360004,Diabetes self management plan,15777000,Prediabetes
+07-04-2010,08-08-2010,066c0f3d-90bb-4082-99ec-f307c4759f50,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+13-12-2019,,066c0f3d-90bb-4082-99ec-f307c4759f50,735984001,Heart failure self management plan,88805009,Chronic congestive heart failure (disorder)
+30-06-2012,28-07-2012,8aa4df95-ae91-4b6a-809e-85aa89e09b4c,91251008,Physical therapy procedure,44465007,Sprain of ankle
+04-04-2019,27-02-2020,8aa4df95-ae91-4b6a-809e-85aa89e09b4c,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+16-12-1973,,04a29a39-c12f-480b-9521-f2d20559089f,698360004,Diabetes self management plan,15777000,Prediabetes
+16-08-1985,06-09-1985,04a29a39-c12f-480b-9521-f2d20559089f,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+06-04-1997,27-04-1997,04a29a39-c12f-480b-9521-f2d20559089f,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+01-10-2003,,04a29a39-c12f-480b-9521-f2d20559089f,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+08-12-2017,07-01-2018,04a29a39-c12f-480b-9521-f2d20559089f,385691007,Fracture care,16114001,Fracture of ankle
+22-03-2016,06-11-2016,1dceeee2-ab03-4adb-8cc9-05954d85d625,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+26-06-2019,24-11-2019,1dceeee2-ab03-4adb-8cc9-05954d85d625,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+16-01-2017,22-02-2017,8dd20f15-2beb-4568-83d4-2109123f5ffd,91251008,Physical therapy procedure,444448004,Injury of medial collateral ligament of knee

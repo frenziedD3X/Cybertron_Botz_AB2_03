@@ -1,3 +1,6 @@
 venv/
 .venv/
 env/
+.env
+abstract.txt
+chroma_db
