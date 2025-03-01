@@ -1,0 +1,8 @@
+biopython==1.81
+lxml==4.9.3
+chromadb==0.4.3
+sentence-transformers==2.2.2
+torch==2.0.1
+transformers==4.31.0
+numpy==1.23.5
+jsonschema==4.17.3
