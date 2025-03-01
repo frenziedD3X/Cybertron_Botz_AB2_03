@@ -67,22 +67,22 @@ class PubMedClient:
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
 
-if __name__ == "__main__":
-    # Initialize the PubMedClient
-    client = PubMedClient(email="your_email@example.com")
+# if __name__ == "__main__":
+#     # Initialize the PubMedClient
+#     client = PubMedClient(email="your_email@example.com")
 
-    # List of queries
-    queries = [
-        "hypertension",
-        "regular medication for diabetes",
-        "allergy to penicillin",
-        "chest pain"
-    ]
+#     # List of queries
+#     queries = [
+#         "hypertension",
+#         "regular medication for diabetes",
+#         "allergy to penicillin",
+#         "chest pain"
+#     ]
 
-    # Output filename
-    filename = "abstract.txt"
+#     # Output filename
+#     filename = "abstract.txt"
 
-    # Fetch and Save Articles
-    client.fetch_and_save_multiple_queries(queries, filename, retmax=5)
+#     # Fetch and Save Articles
+#     client.fetch_and_save_multiple_queries(queries, filename, retmax=5)
 
-    print(f"Articles saved to {filename}")
+#     print(f"Articles saved to {filename}")

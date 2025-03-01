@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Data Form</title>
+</head>
+<body>
+    <h1>User Data Form</h1>
+    <form id="userForm">
+        <label>Name:</label>
+        <input type="text" name="name" required><br>
+        <label>ID:</label>
+        <input type="number" name="id" required><br>
+        <label>Prompt:</label>
+        <textarea name="prompt" required></textarea><br>
+        <button type="button" onclick="submitForm()">Submit</button>
+    </form>
+    <div id="result"></div>
+    <div id="generated_text"></div>
+
+    <script>
+        function submitForm() {
+            const form = document.getElementById('userForm');
+            const formData = {
+                name: form.querySelector('[name="name"]').value,
+                id: form.querySelector('[name="id"]').value,
+                prompt: form.querySelector('[name="prompt"]').value
+            };
+    
+            fetch('/get_data', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(formData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.error) {
+                    document.getElementById('result').innerText = `Error: ${data.error}`;
+                } else {
+                    document.getElementById('result').innerText = `Result: ${data.result}`;
+                    document.getElementById('generated_text').innerText = `Generated Text: ${data.generated_text}`;
+                }
+            })
+            .catch(error => console.error('Error:', error));
+        }
+    </script>
+    
+</body>
+</html>

@@ -10,10 +10,12 @@ c = conn.cursor()
 # Create tables
 c.execute('''
 CREATE TABLE IF NOT EXISTS patients (
-    patient_id TEXT PRIMARY KEY,
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    patient_id TEXT UNIQUE,
     name TEXT NOT NULL,
     birthdate TEXT NOT NULL,
-    age INTEGER
+    age INTEGER,
+    gender TEXT
 )
 ''')
 
@@ -56,19 +58,25 @@ def calculate_age(birthdate):
 
 # Function to generate random names
 def generate_random_name():
-    first_names = ['John', 'Jane', 'Alex', 'Chris', 'Pat', 'Taylor', 'Jordan', 'Morgan', 'Casey', 'Dana']
-    last_names = ['Smith', 'Johnson', 'Brown', 'Taylor', 'Anderson', 'Thomas', 'Jackson', 'White', 'Harris', 'Martin']
+    first_names = ['John', 'Jane', 'Alex', 'Chris', 'Pat', 'Taylor', 'Jordan', 'Morgan', 'Casey', 'Dana',
+               'Sam', 'Jamie', 'Charlie', 'Cameron', 'Riley', 'Logan', 'Avery', 'Blake', 'Quinn', 'Skylar',
+               'Finley', 'Peyton', 'Dakota', 'Emerson', 'Hayden', 'Hunter', 'Reese', 'Sawyer', 'Rowan', 'Sydney']
+
+    last_names = ['Smith', 'Johnson', 'Brown', 'Taylor', 'Anderson', 'Thomas', 'Jackson', 'White', 'Harris', 'Martin',
+              'Clark', 'Lewis', 'Walker', 'Allen', 'Young', 'King', 'Wright', 'Scott', 'Green', 'Adams',
+              'Baker', 'Gonzalez', 'Nelson', 'Carter', 'Mitchell', 'Perez', 'Roberts', 'Campbell', 'Edwards', 'Collins']
+
     return f"{random.choice(first_names)} {random.choice(last_names)}"
 
 # Function to insert patient data
-def insert_patient(patient_id, birthdate):
+def insert_patient(patient_id, birthdate, gender):
     if patient_id.strip():
         name = generate_random_name()
         age = calculate_age(birthdate)
         c.execute('''
-        INSERT OR IGNORE INTO patients (patient_id, name, birthdate, age)
-        VALUES (?, ?, ?, ?)
-        ''', (patient_id.strip(), name, birthdate, age))
+        INSERT OR IGNORE INTO patients (patient_id, name, birthdate, age, gender)
+        VALUES (?, ?, ?, ?, ?)
+        ''', (patient_id.strip(), name, birthdate, age, gender))
         conn.commit()
     else:
         print(f"Invalid patient_id: {patient_id}")
@@ -99,9 +107,9 @@ def insert_medication(patient_id, medications):
 
 # Function to load data from CSVs and insert data
 def load_csvs_and_insert(patients_file, allergies_file, conditions_file, medications_file):
-    patients_df = pd.read_csv(patients_file, usecols=['Id', 'BIRTHDATE'])
+    patients_df = pd.read_csv(patients_file, usecols=['Id', 'BIRTHDATE', 'GENDER'])
     for index, row in patients_df.iterrows():
-        insert_patient(str(row['Id']).strip(), row['BIRTHDATE'])
+        insert_patient(str(row['Id']).strip(), row['BIRTHDATE'], row['GENDER'])
 
     allergies_df = pd.read_csv(allergies_file, usecols=['Id', 'DESCRIPTION'])
     for index, row in allergies_df.iterrows():
