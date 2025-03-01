@@ -56,10 +56,4 @@ class PubMedClient:
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
-if __name__ == "__main__":
-    
-    api_key = None  
-    client = PubMedClient(email, api_key)
-    query = "psoriais"
-    ids = client.search(query, retmax=10)
 
