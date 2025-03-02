@@ -3,7 +3,7 @@ transformers
 torch
 chromadb
 asyncio
-python-dotenv
+dotenv
 Groq
 numpy
 biopython
