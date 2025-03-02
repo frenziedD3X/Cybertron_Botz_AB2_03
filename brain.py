@@ -28,7 +28,7 @@ def get_embedding(text):
 
 # Load abstracts from text file
 def load_abstracts(file_path):
-    with open(file_path, 'r') as f:
+    with open(file_path, 'r', errors="ignore") as f:
         abstracts = f.readlines()
     return [abstract.strip() for abstract in abstracts if abstract.strip()]
 

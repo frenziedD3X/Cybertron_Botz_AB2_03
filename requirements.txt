@@ -10,4 +10,3 @@ biopython
 lxml
 sentence-transformers
 jsonschema
-langchain
